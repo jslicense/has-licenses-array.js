@@ -1,0 +1,17 @@
+{
+  "name": "has-licenses-array",
+  "version": "0.0.0",
+  "description": "test package with an Array licenses property in package.json",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/has-licenses-array.js",
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": "https://example.com/licenses/GPLv2"
+    },
+    {
+      "type": "MIT",
+      "url": "https://example.com/licenses/MIT"
+    }
+  ]
+}
